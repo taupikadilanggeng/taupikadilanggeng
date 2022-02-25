@@ -1,0 +1,13 @@
+F:\project VS\Latihan1\cafemng\cafemng\bin\Debug\cafemng.exe.config
+F:\project VS\Latihan1\cafemng\cafemng\bin\Debug\cafemng.exe
+F:\project VS\Latihan1\cafemng\cafemng\bin\Debug\cafemng.pdb
+F:\project VS\Latihan1\cafemng\cafemng\bin\Debug\cafemng.xml
+F:\project VS\Latihan1\cafemng\cafemng\obj\Debug\cafemng.login.resources
+F:\project VS\Latihan1\cafemng\cafemng\obj\Debug\cafemng.items.resources
+F:\project VS\Latihan1\cafemng\cafemng\obj\Debug\cafemng.Resources.resources
+F:\project VS\Latihan1\cafemng\cafemng\obj\Debug\cafemng.vbproj.GenerateResource.Cache
+F:\project VS\Latihan1\cafemng\cafemng\obj\Debug\cafemng.exe
+F:\project VS\Latihan1\cafemng\cafemng\obj\Debug\cafemng.xml
+F:\project VS\Latihan1\cafemng\cafemng\obj\Debug\cafemng.pdb
+F:\project VS\Latihan1\cafemng\cafemng\obj\Debug\cafemng.mainmenu.resources
+F:\project VS\Latihan1\cafemng\cafemng\obj\Debug\cafemng.vbprojResolveAssemblyReference.cache
